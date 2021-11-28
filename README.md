@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.discordapp.net/attachments/857725750106783805/894294991407546488/tumblr_2045331b15e0a8f1178e174637725c04_4d0c72c0_400.gif" align="center" style="width: 100%" />
+<img src="https://images-ext-1.discordapp.net/external/6J7K255fBqzViXy6Im_M_pY-xgU2oUW_CSzvx6X38sQ/%3Fsize%3D2048/https/cdn.discordapp.com/banners/876983686027960360/a_c209cf1d0796c94ef73fee59188e4220.gif" align="center" style="width: 100%" />
 </div>
 
 <h1 align="center">Hi, I'm Rox</h1>
